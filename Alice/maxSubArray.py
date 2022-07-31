@@ -1,4 +1,4 @@
-## 이거 못 푼 문제ㅠ
+## 이거 못 푼 문제..
 def maxSubArray(nums):
     sum = 0
     max = 0
