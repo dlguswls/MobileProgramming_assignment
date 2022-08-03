@@ -3,6 +3,7 @@ class Car:
         self.speed = 0
         self.year = 2017
         self.wheel = Wheel("aluminum")
+        
         # 1. 여기에 새로운 오브젝트 변수, color를 추가 해 주세요.
         # 색은 기본적으로 "white"로 설정되도록 해 주세요
         self.color = "white"
