@@ -7,7 +7,6 @@ class Node:
     def __str__(self):
         return str(self.val)
 
-
 # 연결 리스트 클래스. head 와 tail을 가지고 있으며, 가장 뒤에 새로운 노드를 추가하는 addToEnd 함수가 있습니다.
 class LinkedList:
     def __init__(self, head):
