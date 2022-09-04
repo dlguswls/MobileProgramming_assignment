@@ -5,7 +5,6 @@ def findDifference(str1, str2):
         b.remove(i)
     return b[0]
 
-
 def main():
     print(findDifference("apple", "azlppe"))
 
